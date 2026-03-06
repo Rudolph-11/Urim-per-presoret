@@ -142,6 +142,11 @@ TEACHERS = {
         "subject": "Gjuhë Shqipe",
         "message": "Ju na mësuat se pas çdo rregulli gramatikor fshihet një botë e tërë ndjenjash dhe se gjuha jonë është pasuria më e madhe që mbajmë me vete. Faleminderit që me durim na treguat se si t'i japim formë mendimeve tona dhe si ta kthejmë fjalën në një art që hap zemra e mendje."
     },
+    "paci": {
+        "name": "Paci",
+        "subject": "Kimi",
+        "message": "Në laboratorin e jetës, ju na mësuat se kimia nuk është vetëm tabela e elementeve, por formula e saktë se si të kombinojmë dijen me karakterin. Faleminderit që na treguat se si të krijojmë 'reaksione' pozitive dhe që me durimin tuaj fisnik, i bëtë edhe formulat më të vështira të duken të qarta si uji. Mirënjohje për çdo eksperiment suksesi!"
+    },
     "arta": {
         "name": "Arta",
         "subject": "Oficere e Sigurisë",
