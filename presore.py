@@ -192,11 +192,6 @@ TEACHERS = {
         "subject": "Fiskulturë",
         "message": "Me ju, palestra nuk ishte thjesht një hapësirë fizike, por një shkollë e karakterit. Na mësuat se trupi i fortë duhet të shoqërohet nga një mendje e fortë dhe se me vullnet, çdo pengesë kthehet në një trampolinë drejt suksesit."
     }
-    "laura":{
-    "name": "Laura",
-    "subject": "Matematike"
-    "message": "Në labirintin e numrave dhe formulave, ju ishit drita që na udhëhoqi drejt logjikës së pastër. Na mësuat se edhe ekuacioni më i ndërlikuar ka një zgjidhje nëse ke durim e vullnet. Faleminderit që nuk hoqët dorë nga ne deri sa çdo 'X' i panjohur u bë i qartë në mendjet tona."
-}
 }
 # State Management
 if "show_message" not in st.session_state:
