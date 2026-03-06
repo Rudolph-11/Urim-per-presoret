@@ -197,7 +197,7 @@ TEACHERS = {
     "subject": "Matematike"
     "message": "Në labirintin e numrave dhe formulave, ju ishit drita që na udhëhoqi drejt logjikës së pastër. Na mësuat se edhe ekuacioni më i ndërlikuar ka një zgjidhje nëse ke durim e vullnet. Faleminderit që nuk hoqët dorë nga ne deri sa çdo 'X' i panjohur u bë i qartë në mendjet tona."
 }
-
+}
 # State Management
 if "show_message" not in st.session_state:
     st.session_state.show_message = False
