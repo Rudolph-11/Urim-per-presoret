@@ -137,6 +137,16 @@ TEACHERS = {
         "subject": "Biologji • Mësuese Kujdestare",
         "message": "Në librin e rritjes sonë, ju jeni kapitulli që na mësoi se jeta nuk është thjesht një bashkësi qelizash që lëvizin, por një mrekulli që duhet mbrojtur me dashuri. Si mësuese kujdestare, ju ishit dora që na mbajti kur u rrezikuam të rrëzoheshim dhe zëri që na dha kurajo kur heshtëm. Në këtë 7 Mars 2026, duam t'ju themi se jeni 'shkenca' më njerëzore që kemi njohur ndonjëherë."
     },
+    "erdia": {
+        "name": "Erdia",
+        "subject": "Gjuhë Shqipe",
+        "message": "Ju na mësuat se pas çdo rregulli gramatikor fshihet një botë e tërë ndjenjash dhe se gjuha jonë është pasuria më e madhe që mbajmë me vete. Faleminderit që me durim na treguat se si t'i japim formë mendimeve tona dhe si ta kthejmë fjalën në një art që hap zemra e mendje."
+    },
+    "albana": {
+        "name": "Albana",
+        "subject": "Drejtoreshë",
+        "message": "Të udhëheqësh një shkollë nuk është thjesht punë zyre, por misioni për të ndërtuar të ardhmen e një brezi. Faleminderit që krijon një shtëpi të dytë për ne, ku dija dhe disiplina bashkohen me dashamirësinë. Mirënjohje për vizionin dhe mbështetjen tuaj të palodhur në çdo hap të rrugëtimit tonë."
+    },
     "laura": {
         "name": "Laura",
         "subject": "Matematikë",
