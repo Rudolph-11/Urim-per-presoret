@@ -137,6 +137,26 @@ TEACHERS = {
         "subject": "Biologji • Mësuese Kujdestare",
         "message": "Në librin e rritjes sonë, ju jeni kapitulli që na mësoi se jeta nuk është thjesht një bashkësi qelizash që lëvizin, por një mrekulli që duhet mbrojtur me dashuri. Si mësuese kujdestare, ju ishit dora që na mbajti kur u rrezikuam të rrëzoheshim dhe zëri që na dha kurajo kur heshtëm. Në këtë 7 Mars 2026, duam t'ju themi se jeni 'shkenca' më njerëzore që kemi njohur ndonjëherë."
     },
+    "laura": {
+        "name": "Laura",
+        "subject": "Matematikë",
+        "message": "Ashtu si ekuacionet që kërkojnë saktësi, ju na mësuat se çdo problem në jetë ka një zgjidhje nëse përdorim logjikën dhe durimin. Faleminderit që e bëtë botën e numrave të duket më pak e frikshme dhe që na treguat se pas çdo rezultati fshihet puna dhe përkushtimi i palodhur."
+    },
+    "liza": {
+        "name": "Liza",
+        "subject": "Matematikë",
+        "message": "Në labirintin e numrave dhe formulave, ju ishit drita që na udhëhoqi drejt logjikës së pastër. Na mësuat se edhe ekuacioni më i ndërlikuar ka një zgjidhje nëse ke durim e vullnet. Faleminderit që nuk hoqët dorë nga ne deri sa çdo 'X' i panjohur u bë i qartë në mendjet tona."
+    },
+    "ajbane": {
+        "name": "Ajbane",
+        "subject": "Frëngjisht",
+        "message": "Me ju, mësuam se frëngjishtja nuk është thjesht 'gjuha e dashurisë', por gjuha e elegancës dhe kulturës botërore. Faleminderit që na bëtë të ndihemi si në rrugët e Parisit në çdo orë mësimi dhe që na edukat me atë finesë që vetëm ju e keni. Merci beaucoup!"
+    },
+    "anila": {
+        "name": "Anila",
+        "subject": "Gjeografi • Histori",
+        "message": "Ju jeni udhërrëfyesja jonë në kohë dhe hapësirë. Na mësuat të duam tokën ku shkelim dhe të nderojmë historinë që na solli këtu. Faleminderit që i kthyet hartat në tregime dhe datat në mësime jete, duke na bërë qytetarë më të vetëdijshëm të kësaj bote."
+    },
     "egla": {
         "name": "Egla",
         "subject": "Gjuhë Shqipe",
@@ -161,11 +181,6 @@ TEACHERS = {
         "name": "Gladiola",
         "subject": "Anglisht",
         "message": "Në botën e madhe që na pret jashtë këtyre mureve, ju na dhatë çelësin më të rëndësishëm. Anglishtja juaj ishte më shumë se mësim; ishte premtimi se asnjë ëndërr nuk do të jetë e paarritshme sepse tani ne dimë të flasim gjuhën e mundësive."
-    },
-    "liza": {
-        "name": "Liza",
-        "subject": "Matematikë",
-        "message": "Në labirintin e numrave dhe formulave, ju ishit drita që na udhëhoqi drejt logjikës së pastër. Na mësuat se edhe ekuacioni më i ndërlikuar ka një zgjidhje nëse ke durim e vullnet. Faleminderit që nuk hoqët dorë nga ne deri sa çdo 'X' i panjohur u bë i qartë në mendjet tona."
     },
     "xheni": {
         "name": "Xheni",
