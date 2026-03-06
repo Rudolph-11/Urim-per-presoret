@@ -142,6 +142,11 @@ TEACHERS = {
         "subject": "Gjuhë Shqipe",
         "message": "Ju na mësuat se pas çdo rregulli gramatikor fshihet një botë e tërë ndjenjash dhe se gjuha jonë është pasuria më e madhe që mbajmë me vete. Faleminderit që me durim na treguat se si t'i japim formë mendimeve tona dhe si ta kthejmë fjalën në një art që hap zemra e mendje."
     },
+    "arta": {
+        "name": "Teta Arta",
+        "subject": "Oficere e Sigurisë",
+        "message": "Përtej rregullave dhe disiplinës, ju jeni personi që na pritni çdo mëngjes me një sy vigjilent dhe një zemër të ngrohtë. Faleminderit që kujdeseni për sigurinë tonë si të ishim fëmijët tuaj dhe që me praninë tuaj, shkolla jonë ndihet si një vend më i sigurt dhe më i dashur. Mirënjohje për qetësinë që na falni!"
+    },
     "albana": {
         "name": "Albana",
         "subject": "Drejtoreshë",
